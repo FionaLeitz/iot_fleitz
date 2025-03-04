@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/FionaLeitz/iot_fleitz'
+    repoURL: 'https://github.com/FionaLeitz/iot_fleitz.git'
     targetRevision: main
     path: .
   destination:
